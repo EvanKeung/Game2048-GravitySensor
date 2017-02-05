@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2048贺岁版（重力感应）</string>
+    <string name="score">Score</string>
+    <string name="BestScore">最高得分:</string>
+</resources>
